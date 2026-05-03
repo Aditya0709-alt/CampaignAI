@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="docs/screenshots/04-campaign-graph.png" width="100%" alt="CampaignAI Campaign - Knowledge Graph + Agent Actions">
+  <img src="docs/screenshots/01-campaign-overview.png" width="100%" alt="CampaignAI Campaign - Knowledge Graph + Agent Actions">
 </p>
 
 ---
@@ -55,30 +55,28 @@ CampaignAI is a **multi-agent AI simulation platform** for marketing teams. It b
 
 ### Campaign Mode (v2) -- Knowledge Graph + Multi-Agent Simulation
 <p align="center">
-  <img src="docs/screenshots/01-home-campaign.png" width="80%" alt="Campaign Creation Form">
+  <img src="docs/screenshots/01-campaign-creation.png" width="80%" alt="Campaign Creation Form">
   <br><em>Create a campaign with content + context data</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/04-campaign-graph.png" width="80%" alt="Knowledge Graph + Agent Actions">
+  <img src="docs/screenshots/02-graph-visualization.png" width="80%" alt="Knowledge Graph + Agent Actions">
   <br><em>Knowledge graph visualization (D3.js) + real-time agent action feed</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/06-campaign-report.png" width="80%" alt="Marketing Report">
-  <br><em>Viral Score (calibrated 0-100), agent count, report with segment analysis</em>
+  <img src="docs/screenshots/03-simulation-running.png" width="80%" alt="Marketing Report">
+  <br><em>Live simulation with agent profiles, action feed, and viral score tracking</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/05-campaign-report-actions.png" width="80%" alt="Report + Recommendations + Interview">
-  <br><em>Full report, actionable recommendations, and post-sim agent interview panel</em>
+  <img src="docs/screenshots/04-report-results.png" width="80%" alt="Report + Recommendations + Interview">
+  <br><em>Full report with actionable recommendations and post-sim agent interview panel</em>
 </p>
 
-### Quick Test + A/B Test (v1)
 <p align="center">
-  <img src="docs/screenshots/02-home-quicktest.png" width="45%" alt="Quick Test">&nbsp;
-  <img src="docs/screenshots/03-home-abtest.png" width="45%" alt="A/B Test">
-  <br><em>Quick single simulation (left) and A/B variant comparison (right)</em>
+  <img src="docs/screenshots/05-agent-interview.png" width="80%" alt="Agent Interview">
+  <br><em>Interactive agent interview: ask why they shared content, get personalized reasoning</em>
 </p>
 
 ## Architecture & Technical Deep Dive
