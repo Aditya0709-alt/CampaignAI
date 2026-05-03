@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="docs/screenshots/01-campaign-overview.png" width="100%" alt="CampaignAI Campaign - Knowledge Graph + Agent Actions">
+  <img width="1512" height="903" alt="1" src="https://github.com/user-attachments/assets/35cf99e5-bb55-4a31-94bf-66d340015945" />
 </p>
 
 ---
@@ -55,27 +55,27 @@ CampaignAI is a **multi-agent AI simulation platform** for marketing teams. It b
 
 ### Campaign Mode (v2) -- Knowledge Graph + Multi-Agent Simulation
 <p align="center">
-  <img src="docs/screenshots/01-campaign-creation.png" width="80%" alt="Campaign Creation Form">
+  <img width="1512" height="903" alt="1" src="https://github.com/user-attachments/assets/35cf99e5-bb55-4a31-94bf-66d340015945" />
   <br><em>Create a campaign with content + context data</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/02-graph-visualization.png" width="80%" alt="Knowledge Graph + Agent Actions">
+  <img width="1511" height="903" alt="2" src="https://github.com/user-attachments/assets/152d5ef3-4c8d-4ec3-836e-6cbe698a67a4" />
   <br><em>Knowledge graph visualization (D3.js) + real-time agent action feed</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/03-simulation-running.png" width="80%" alt="Marketing Report">
+  <img width="1512" height="905" alt="3" src="https://github.com/user-attachments/assets/ddcfaf9c-a29c-4b46-af35-d7f95d7afddb" />
   <br><em>Live simulation with agent profiles, action feed, and viral score tracking</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/04-report-results.png" width="80%" alt="Report + Recommendations + Interview">
+  <img width="1510" height="857" alt="4" src="https://github.com/user-attachments/assets/6781105b-1964-4aac-a2b7-a849f5f2c2a1" />
   <br><em>Full report with actionable recommendations and post-sim agent interview panel</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/05-agent-interview.png" width="80%" alt="Agent Interview">
+<img width="422" height="505" alt="5" src="https://github.com/user-attachments/assets/7bf3128c-a563-48d6-a6cd-2546ad3006fc" />
   <br><em>Interactive agent interview: ask why they shared content, get personalized reasoning</em>
 </p>
 
