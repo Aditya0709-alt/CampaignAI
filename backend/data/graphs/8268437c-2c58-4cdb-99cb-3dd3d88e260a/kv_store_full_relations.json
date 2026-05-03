@@ -1,0 +1,42 @@
+{
+  "doc-9c619535229471343ea5e1e5894438ae": {
+    "relation_pairs": [
+      [
+        "West Bengal Assembly Elections 2026",
+        "hung assembly"
+      ],
+      [
+        "Bharatiya Janata Party (BJP)",
+        "West Bengal Assembly Elections 2026"
+      ],
+      [
+        "Bharatiya Janata Party (BJP)",
+        "Exit Polls"
+      ],
+      [
+        "High Voter Turnout",
+        "West Bengal Assembly Elections 2026"
+      ],
+      [
+        "West Bengal Assembly Elections 2026",
+        "Youth Participation"
+      ],
+      [
+        "Exit Polls",
+        "Trinamool Congress (TMC)"
+      ],
+      [
+        "Trinamool Congress (TMC)",
+        "West Bengal Assembly Elections 2026"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1777811983,
+    "update_time": 1777811983,
+    "_id": "doc-9c619535229471343ea5e1e5894438ae"
+  }
+}

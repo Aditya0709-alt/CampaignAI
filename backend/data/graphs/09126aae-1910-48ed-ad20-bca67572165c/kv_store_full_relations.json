@@ -1,0 +1,34 @@
+{
+  "doc-850eb9d4af32dc37d8c446871f90f78d": {
+    "relation_pairs": [
+      [
+        "Toothpaste Brand",
+        "Young Urban Consumers"
+      ],
+      [
+        "Advanced Protection Toothpaste",
+        "Cavities"
+      ],
+      [
+        "Advanced Protection Toothpaste",
+        "Enamel"
+      ],
+      [
+        "Advanced Protection Toothpaste",
+        "Breath Freshness"
+      ],
+      [
+        "Advanced Protection Toothpaste",
+        "Young Urban Consumers"
+      ],
+      [
+        "Advanced Protection Toothpaste",
+        "Your Smile"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1777809783,
+    "update_time": 1777809783,
+    "_id": "doc-850eb9d4af32dc37d8c446871f90f78d"
+  }
+}

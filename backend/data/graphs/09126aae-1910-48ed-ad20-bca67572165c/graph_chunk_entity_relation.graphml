@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Your Smile">
+      <data key="d0">Your Smile</data>
+      <data key="d1">concept</data>
+      <data key="d2">Your Smile represents the idea of a pleasant expression that conveys happiness or confidence.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="Advanced Protection Toothpaste">
+      <data key="d0">Advanced Protection Toothpaste</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Advanced Protection Toothpaste is a new product designed to strengthen enamel, fight cavities, and keep breath fresh.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="Enamel">
+      <data key="d0">Enamel</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Enamel refers to the hard outer layer of teeth that protects them from decay.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="Cavities">
+      <data key="d0">Cavities</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Cavities are holes in the teeth caused by tooth decay.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="Breath Freshness">
+      <data key="d0">Breath Freshness</data>
+      <data key="d1">concept</data>
+      <data key="d2">Breath Freshness describes the quality of having clean and pleasant-smelling breath.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="OralCare">
+      <data key="d0">OralCare</data>
+      <data key="d1">concept</data>
+      <data key="d2">OralCare is a hashtag associated with maintaining good dental hygiene practices.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="HealthySmile">
+      <data key="d0">HealthySmile</data>
+      <data key="d1">concept</data>
+      <data key="d2">HealthySmile represents the concept of a strong, disease-free smile that boosts confidence.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="DailyConfidence">
+      <data key="d0">DailyConfidence</data>
+      <data key="d1">concept</data>
+      <data key="d2">DailyConfidence is a hashtag highlighting the continuous positive impact on daily life from good oral health.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="Toothpaste Brand">
+      <data key="d0">Toothpaste Brand</data>
+      <data key="d1">organization</data>
+      <data key="d2">Toothpaste Brand refers to the new company or product line focusing on complete oral protection.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <node id="Young Urban Consumers">
+      <data key="d0">Young Urban Consumers</data>
+      <data key="d1">person_group</data>
+      <data key="d2">Young Urban Consumers are a demographic targeted by the toothpaste brand, characterized by their desire for both health and confidence.</data>
+      <data key="d3">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777809783</data>
+      <data key="d6" />
+    </node>
+    <edge source="Your Smile" target="Advanced Protection Toothpaste">
+      <data key="d7">1.0</data>
+      <data key="d8">The Advanced Protection Toothpaste is designed to enhance Your Smile through improved oral health.</data>
+      <data key="d9">boost,enhancement</data>
+      <data key="d10">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777809783</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advanced Protection Toothpaste" target="Enamel">
+      <data key="d7">1.0</data>
+      <data key="d8">The toothpaste strengthens Enamel as one of its key benefits.</data>
+      <data key="d9">product benefit,protection</data>
+      <data key="d10">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777809783</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advanced Protection Toothpaste" target="Cavities">
+      <data key="d7">1.0</data>
+      <data key="d8">The toothpaste fights Cavities to prevent tooth decay.</data>
+      <data key="d9">prevention,product benefit</data>
+      <data key="d10">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777809783</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advanced Protection Toothpaste" target="Breath Freshness">
+      <data key="d7">1.0</data>
+      <data key="d8">The toothpaste keeps Breath Freshness by freshening the breath throughout the day.</data>
+      <data key="d9">product benefit,result</data>
+      <data key="d10">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777809783</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Advanced Protection Toothpaste" target="Young Urban Consumers">
+      <data key="d7">1.0</data>
+      <data key="d8">The Advanced Protection Toothpaste targets Young Urban Consumers who seek both health and confidence in their daily life.</data>
+      <data key="d9">appeal,target_market</data>
+      <data key="d10">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777809783</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Toothpaste Brand" target="Young Urban Consumers">
+      <data key="d7">1.0</data>
+      <data key="d8">The Toothpaste Brand targets Young Urban Consumers who seek a premium yet accessible daily oral care solution for both health and confidence.</data>
+      <data key="d9">appeal,target_market</data>
+      <data key="d10">chunk-850eb9d4af32dc37d8c446871f90f78d</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777809783</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

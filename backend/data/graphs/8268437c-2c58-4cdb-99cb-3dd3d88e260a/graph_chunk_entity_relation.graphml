@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Kolkata">
+      <data key="d0">Kolkata</data>
+      <data key="d1">location</data>
+      <data key="d2">Kolkata is a city in West Bengal, India.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="West Bengal Assembly Elections 2026">
+      <data key="d0">West Bengal Assembly Elections 2026</data>
+      <data key="d1">event</data>
+      <data key="d2">The West Bengal Assembly Elections 2026 are political elections held in the state of West Bengal.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="Trinamool Congress (TMC)">
+      <data key="d0">Trinamool Congress (TMC)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Trinamool Congress (TMC) is a major political party contesting in the election.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="Bharatiya Janata Party (BJP)">
+      <data key="d0">Bharatiya Janata Party (BJP)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Bharatiya Janata Party (BJP) is another political party competing in the elections.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="West Bengal">
+      <data key="d0">West Bengal</data>
+      <data key="d1">location</data>
+      <data key="d2">West Bengal is a state in India.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="Exit Polls">
+      <data key="d0">Exit Polls</data>
+      <data key="d1">method</data>
+      <data key="d2">Exit polls are surveys conducted after voters leave polling stations to gauge election results.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="High Voter Turnout">
+      <data key="d0">High Voter Turnout</data>
+      <data key="d1">concept</data>
+      <data key="d2">High voter turnout refers to a large number of people participating in elections.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="Youth Participation">
+      <data key="d0">Youth Participation</data>
+      <data key="d1">concept</data>
+      <data key="d2">Youth participation refers to young voters taking part in elections.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="hung assembly">
+      <data key="d0">hung assembly</data>
+      <data key="d1">concept</data>
+      <data key="d2">A hung assembly is an outcome where no single party has enough seats to form a government on its own.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#BengalElections2026">
+      <data key="d0">#BengalElections2026</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#BengalElections2026 is used to track updates and information about the election.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#VoterTurnout">
+      <data key="d0">#VoterTurnout</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#VoterTurnout refers to the level of participation in elections as tracked by hashtags.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#Democracy">
+      <data key="d0">#Democracy</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#Democracy highlights the importance of voting and participation in democratic processes.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#YouthVote">
+      <data key="d0">#YouthVote</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#YouthVote focuses on youth participation in political activities.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#ElectionAnalysis">
+      <data key="d0">#ElectionAnalysis</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#ElectionAnalysis provides insights into the dynamics and outcomes of elections.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#BengalVotes">
+      <data key="d0">#BengalVotes</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#BengalVotes emphasizes voting behavior in West Bengal.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#PublicSentiment">
+      <data key="d0">#PublicSentiment</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#PublicSentiment reflects public opinion and attitudes towards political events.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#ElectionUpdate">
+      <data key="d0">#ElectionUpdate</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#ElectionUpdate provides real-time information about the progress of elections.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811982</data>
+      <data key="d6" />
+    </node>
+    <node id="#ExitPolls">
+      <data key="d0">#ExitPolls</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#ExitPolls refers to the results and predictions from exit polls during the election.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811983</data>
+      <data key="d6" />
+    </node>
+    <node id="#TooCloseToCall">
+      <data key="d0">#TooCloseToCall</data>
+      <data key="d1">hashtag</data>
+      <data key="d2">#TooCloseToCall indicates that the outcome of the election is highly uncertain based on early projections.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811983</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Federation">
+      <data key="d0">World Athletics Federation</data>
+      <data key="d1">organization</data>
+      <data key="d2">The World Athletics Federation is the governing body overseeing the World Athletics Championship and record validations.</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811983</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon-Fiber Spikes">
+      <data key="d0">Carbon-Fiber Spikes</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d2">Noah Carter used carbon-fiber spikes to enhance performance during the race.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811983</data>
+      <data key="d6" />
+    </node>
+    <node id="Noah Carter">
+      <data key="d0">Noah Carter</data>
+      <data key="d3">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d2">Noah Carter used carbon-fiber spikes to enhance performance during the race.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1777811983</data>
+      <data key="d6" />
+    </node>
+    <edge source="West Bengal Assembly Elections 2026" target="Trinamool Congress (TMC)">
+      <data key="d7">1.0</data>
+      <data key="d8">The Trinamool Congress is competing in the West Bengal Assembly Elections 2026.</data>
+      <data key="d9">election competition,political contest</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="West Bengal Assembly Elections 2026" target="Bharatiya Janata Party (BJP)">
+      <data key="d7">1.0</data>
+      <data key="d8">The Bharatiya Janata Party is also competing in the West Bengal Assembly Elections 2026.</data>
+      <data key="d9">election competition,political contest</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="West Bengal Assembly Elections 2026" target="High Voter Turnout">
+      <data key="d7">1.0</data>
+      <data key="d8">The West Bengal Assembly Elections 2026 had strong voter turnout setting the stage for a close race.</data>
+      <data key="d9">election result,voter participation</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="West Bengal Assembly Elections 2026" target="Youth Participation">
+      <data key="d7">1.0</data>
+      <data key="d8">Youth were a significant part of the high voter turnout during the West Bengal Assembly Elections 2026.</data>
+      <data key="d9">voter demographics,youth engagement</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="West Bengal Assembly Elections 2026" target="hung assembly">
+      <data key="d7">1.0</data>
+      <data key="d8">Uncertainty surrounds the final outcome of the West Bengal Assembly Elections 2026 as some projections suggest a possible hung assembly.</data>
+      <data key="d9">election result,uncertainty</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Trinamool Congress (TMC)" target="Exit Polls">
+      <data key="d7">1.0</data>
+      <data key="d8">Exit polls suggest possible strong showing for Trinamool Congress with estimates of 100-170+ seats.</data>
+      <data key="d9">poll prediction,seat estimation</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bharatiya Janata Party (BJP)" target="Exit Polls">
+      <data key="d7">1.0</data>
+      <data key="d8">Exit polls project a potential edge for the BJP with seat ranges between 140 and 190.</data>
+      <data key="d9">poll prediction,seat estimation</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Carbon-Fiber Spikes" target="Noah Carter">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter used carbon-fiber spikes to enhance performance during the race.</data>
+      <data key="d9">athletic equipment,performance boost</data>
+      <data key="d10">chunk-9c619535229471343ea5e1e5894438ae</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1777811983</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>
