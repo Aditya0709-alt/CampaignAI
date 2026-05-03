@@ -1,18 +1,7 @@
 <p align="center">
   <h1 align="center">👻 CampaignAI</h1>
-  <p align="center"><strong>Marketing AI Chief of Staff</strong></p>
-  <p align="center">Multi-agent social simulation with knowledge graphs. Preview how your content spreads before you publish.</p>
+  <p align="center">Multi-agent simulation for running marketing campiagns, product launches, press releases.</p>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12+-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Vue-3-green?logo=vuedotjs" alt="Vue">
-  <img src="https://img.shields.io/badge/LightRAG-Knowledge%20Graph-orange" alt="LightRAG">
-  <img src="https://img.shields.io/badge/camel--ai-Multi%20Agent-red" alt="camel-ai">
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-blueviolet" alt="Ollama">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-</p>
-
 ---
 
 <p align="center">
