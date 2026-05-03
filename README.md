@@ -74,36 +74,11 @@ CampaignAI is a **multi-agent AI simulation platform** for marketing teams. It b
 <img width="1376" height="678" alt="Screenshot 2026-05-03 at 6 57 45 PM" src="https://github.com/user-attachments/assets/cc0d1f9c-f52d-456d-bb0b-9808011d7c5b" />
 
 
-```
-CampaignAI v2: Technical Stack
-==============================================================================
+### Technical Flow
 
-  INPUT LAYER                         PROCESSING PIPELINE              OUTPUT LAYER
-  ┌──────────────────┐                                            ┌──────────────────┐
-  │ Content          │                                            │ Marketing        │
-  │ (ad copy, post)  │                                            │ Dashboard (Vue3) │
-  │                  │                                            │                  │
-  │ Context Data     │─────→ 5-Stage Pipeline ──────────→        │ - Viral Score    │
-  │ (news, posts)    │        (async orchestrated)              │ - Graph Viz      │
-  │                  │                                            │ - Action Feed    │
-  │ Audience Config  │                                            │ - Agent Interview│
-  └──────────────────┘                                            └──────────────────┘
+<img width="881" height="437" alt="Screenshot 2026-05-03 at 7 08 52 PM" src="https://github.com/user-attachments/assets/b81f8485-bec2-4fc3-8aca-37bd963dd217" />
 
-  BACKEND INFRASTRUCTURE
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │ FastAPI Application with Async Event Loop                          │
-  │                                                                      │
-  │ Route Handler                     Simulation State Manager           │
-  │ POST /api/v2/campaigns/ ────→ [Create Campaign] ─────────→ SQLite   │
-  │                               [Queue Pipeline]             DB      │
-  │                               [Emit Events]                        │
-  │                                                                      │
-  │ WebSocket                      Real-time Updates                    │
-  │ /ws/{campaign_id} ←─────────── [Graph Status]  ────→ Clients       │
-  │                               [Sim Progress]                       │
-  │                               [Report Chunks]                      │
-  └─────────────────────────────────────────────────────────────────────┘
-```
+
 
 ### 5-Stage Pipeline (Detailed)
 
