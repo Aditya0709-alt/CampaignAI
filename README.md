@@ -83,6 +83,9 @@ CampaignAI is a **multi-agent AI simulation platform** for marketing teams. It b
 
 ### System Overview
 
+<img width="1376" height="678" alt="Screenshot 2026-05-03 at 6 57 45 PM" src="https://github.com/user-attachments/assets/cc0d1f9c-f52d-456d-bb0b-9808011d7c5b" />
+
+
 ```
 CampaignAI v2: Technical Stack
 ==============================================================================
