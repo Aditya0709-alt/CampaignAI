@@ -2,7 +2,6 @@
   <h1 align="center">👻 CampaignAI</h1>
   <p align="center">Multi-agent simulation for running marketing campiagns, product launches, press releases.</p>
 </p>
----
 
 <p align="center">
   <img width="1512" height="903" alt="1" src="https://github.com/user-attachments/assets/35cf99e5-bb55-4a31-94bf-66d340015945" />
